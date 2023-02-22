@@ -3,4 +3,5 @@ repositorio pra guardar as informações do post sobre a biblioteca pickle em py
 
 
 url do post:
+
 acesse.one/RozendoPickle
